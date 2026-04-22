@@ -1,0 +1,7 @@
+Context:
+{context}
+
+Question:
+{question}
+
+Provide a clear answer in bullet points when useful, then list sources.
